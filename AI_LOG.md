@@ -15,7 +15,7 @@ vez*, no una lista), decidir cómo preservar la adyacencia entre
 iteraciones, decidir el manejo de dangling nodes, escribir los casos de
 prueba hand-computables, y conectar el análisis con la motivación de
 Spark en Clase 5. Esas son las partes que cuentan para la nota
-(70% de la rúbrica, ver §8 de la tarea).
+(70% de la rúbrica).
 
 ---
 
